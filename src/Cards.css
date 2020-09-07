@@ -1,0 +1,45 @@
+.Cards .card {
+  left: -45px;
+}
+
+.Cards.degrees {
+  font-family: Lobster;
+  font-size: 32px;
+  position: relative;
+  left: 135px;
+  bottom: 75px;
+  top: -100px;
+  color: #265c75;
+  cursor: default;
+}
+
+.Cards .degrees:hover {
+  text-decoration: none;
+}
+
+.Cards #description {
+  text-transform: capitalize;
+  left: 30px;
+  bottom: 35px;
+  font-size: 32px;
+  color: rgb(82, 15, 82);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Cards .now {
+  font-family: Lobster;
+  font-size: 75px;
+  color: rgba(23, 80, 102, 0.733);
+  position: relative;
+  left: 25px;
+}
+
+.Cards .text-primary {
+  font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.Cards img {
+  width: 65px;
+  margin: 7px;
+}
