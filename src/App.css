@@ -19,3 +19,8 @@
     #e9e9e7 100%
   );
 }
+
+.App .link{
+  text-align: center;
+  display: block;
+}

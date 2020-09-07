@@ -13,8 +13,8 @@ export default function App() {
           <Cards />
           <Forecast />
         </div>
+        <small className ="link"> <a href="https://github.com/Alexandra1717/weather-react" target="blank">Open source code </a> by Alexandra Negrea</small>
       </div>
-      <small> <a href="https://github.com/Alexandra1717/weather-react" target="blank">Open source code </a> by Alexandra Negrea</small>
-    </div>
+</div>
   );
 }
